@@ -10,12 +10,8 @@ A simple web-based calculator implemented with plain HTML, CSS and JavaScript.
 
 ## Usage
 
-1. Open `index.html` in your web browser.
-2. Or serve the folder and open http://localhost:8000:
+ Open `index.html` in your web browser.
 
-```bash
-python -m http.server 8000
-```
 
 ## Features
 
